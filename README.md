@@ -20,6 +20,7 @@ Using the merge & compress script
 You must be able to run python file on your system for this.
 Save the individual pages in PDF format with name 1.pdf , 2.pdf
 Download the compress_pdf.py file and open it in a text editor.
+
 Set the following variables :
 dir_path : Directory path where you saved the PDFs for individual page
 num_of_pages : Number of files to merge (i.e. pages in your Resume)
